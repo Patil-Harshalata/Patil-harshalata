@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer, dedicated to aut
 - 🌱 I’m continuously learning about **Cloud Computing**, **CI/CD**, and **Infrastructure as Code (IaC)**.
 - 👯 I’m looking to collaborate on projects related to **Kubernetes**, **Docker**, and **Terraform**.
 - 💬 Ask me about **AWS**, **Jenkins**, **Ansible**, and **Python**.
-- 📫 How to reach me: [harshalata.patil@example.com](mailto:harshalata.patil@example.com)
+- 📫 How to reach me: patilharshalata9@gmail.com](patilharshalata9@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new technologies.
 
 ## Technologies & Tools
